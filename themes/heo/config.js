@@ -6,7 +6,6 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
      { title: '欢迎来到寿司旅行网', url: 'https://sushitrip.cn' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
   ],  
 
   // 英雄区左右侧组件颠倒位置
